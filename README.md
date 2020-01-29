@@ -1,3 +1,8 @@
+
+
+**Please Read Project_Report.pdf For Indepth Information**
+
+
 # Hotel_Management_DBMS
 This Project has MySQL at the backend and it uses PHP i.e ODBC to connect the web module to the database.
 
