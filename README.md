@@ -14,9 +14,9 @@ Run the server apache server at your PC's 8080 port and for the bakend it is you
 
 
 Project Members-
-  Prithviraj Walke
-  Kaushal Bhandari
-  Omkar Wanve
+  Prithviraj Walke,
+  Kaushal Bhandari,
+  Omkar Wanve.
 
 Thank You, 
 Akshay Kale
