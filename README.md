@@ -13,7 +13,7 @@ Use Xampp or Lampp to run the project.
 Run the server apache server at your PC's 8080 port and for the bakend it is you would need phpmyadmin so that database will work properly.
 
 
-Project Members 
+Project Members-
   Prithviraj Walke
   Kaushal Bhandari
   Omkar Wanve
